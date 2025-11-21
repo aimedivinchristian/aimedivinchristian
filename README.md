@@ -10,5 +10,5 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - ⚡ Fun fact: [Game lover]
 
 ## 🛠️ Languages and Tools:
-![Languages and Tools](https://skillicons.dev/icons?i=python,js,html,css,react,github)
+![Languages and Tools](https://skillicons.dev/icons?i=python,js,html,php,css,react,github,mysql)
 
