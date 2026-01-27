@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate coder, tech enthusiast, and lifelong lear
 ## 💻 Projects
 Here are some cool projects I’ve been working on:  
 - [Embedded LED Controller](https://github.com/aimedivinchristian/embedded-led-controller) – Microcontroller fun!  
-- [Portfolio Website](https://github.com/aimedivinchristian/portfolio) – My personal dev space  
+- [Portfolio Website](https://github.com/aimedivinchristian/space-d) – My personal dev space  
 - [Mini Games Collection](https://github.com/aimedivinchristian/games) – Fun coding projects  
 
 *(More projects coming soon 🚀)*  
